@@ -1,4 +1,3 @@
-layout_spectrum: 0.9772945921868086
 typography_spectrum: 0.6074786654207855
 color:
   brandStrength: 0.9106201964896172
@@ -11,5 +10,7 @@ color:
     - '#7D0100'
     - '#C03231'
     - '#DB7969'
+layout_spectrum: 0.9772945921868086
 name: test
 title: Andrey Zhokhov
+description: Portfolio Presentation
